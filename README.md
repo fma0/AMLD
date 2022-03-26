@@ -11,7 +11,7 @@ Course notes can be found [here](https://yopad.eu/p/AMLD2022_Neuroscience-365day
 The data file '817_1_PDDys_ODDBALL_Clean_curated.fif' was originally part of the [Patient Repository for EEG data and computational tools](http://predict.cs.unm.edu/) website, where it was part of the [Parkinson's Oddball](http://bit.ly/2r4JORe) dataset. The publication describing this dataset [can be found here](https://www.sciencedirect.com/science/article/pii/S1388245717311719).
 
 ### Toolboxes used
-This course is mainly based on [MNE-Python](https://github.com/mne-tools/mne-python) and [Scikit-learn](http://scikit-learn.org/stable/).
+This course is mainly based on [MNE-Python](https://github.com/mne-tools/mne-python), [Scikit-learn](http://scikit-learn.org/stable/) and [Tensorflow](https://www.tensorflow.org/).
 
 ### Tutorials
 Some introductory tutorial notebooks on handling EEG data and Machine Learning with EEG data can [be found here](https://github.com/aath0/PIP_SummerSchoolML/tree/master/TutorialNotebooks).
